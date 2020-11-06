@@ -2,11 +2,11 @@ module.exports = {
   title: 'The Adventures of Dylan',
   tagline: 'Happy 6th birthday Dylan!!!',
   url: 'https://aminsaied.github.io',
-  baseUrl: '/',
+  baseUrl: '/dylan/',
   onBrokenLinks: 'throw',
   favicon: 'img/lego.jpg',
   organizationName: 'aminsaied',
-  projectName: 'dylan6',
+  projectName: 'dylan',
   themeConfig: {
     navbar: {
       title: 'The Adventures of Dylan',

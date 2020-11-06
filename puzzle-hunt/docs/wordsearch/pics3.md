@@ -13,10 +13,10 @@ A Blue Whale weighs over 170 tonnes - that more than nine double decker busses.
 Who used to live in Bristol?
 
 ### Dad
-[![lego](../../static/img/duncan.jpg)](../)
+[![lego](../../static/img/duncan.jpg)](hello.md)
 
 ### Mum
-[![lego](../../static/img/aliya.jpg)](../numberland/welcome)
+[![lego](../../static/img/aliya.jpg)](numberland/welcome.md)
 
 ### Clare
-[![lego](../../static/img/clare.jpg)](../)
+[![lego](../../static/img/clare.jpg)](hello.md)

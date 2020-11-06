@@ -43,4 +43,6 @@ Solve the anagram.
 
 Append the solved anagram to the URL (ask your mum or dad what that is).
 
-For example, if the solved anagram was `cake` then the new url would end `wordsearch/cake`
+For example, if the solved anagram was `cake` then the new url would be
+
+[https://aminsaied.github.io/dylan/docs/wordsearch/cake](https://www.youtube.com/watch?v=wBU9N35ZHIw&t=1s)

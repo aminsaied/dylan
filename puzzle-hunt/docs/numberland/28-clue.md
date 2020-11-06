@@ -16,15 +16,15 @@ of these links. Can you find him?
 How old are you today?
 :::
 
-## [DOCS](28-clue)
-## [DOCS](28-clue)
-## [DOCS](28-clue)
-## [DOCS](28-clue)
-## [DOCS](28-clue)
-## [DOCS](../boss/0)
-## [DOCS](28-clue)
-## [DOCS](28-clue)
-## [DOCS](28-clue)
+## [DOCS](numberland/28-clue.md)
+## [DOCS](numberland/28-clue.md)
+## [DOCS](numberland/28-clue.md)
+## [DOCS](numberland/28-clue.md)
+## [DOCS](numberland/28-clue.md)
+## [DOCS](boss/0.md)
+## [DOCS](numberland/28-clue.md)
+## [DOCS](numberland/28-clue.md)
+## [DOCS](numberland/28-clue.md)
 
 
 

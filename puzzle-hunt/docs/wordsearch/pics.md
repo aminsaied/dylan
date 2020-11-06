@@ -8,10 +8,10 @@ title: 📷 Pictoria 📷
 Which uncle was born in 1988?
 
 ### Amin
-[![lego](../../static/img/me.jpg)](pics2)
+[![lego](../../static/img/me.jpg)](wordsearch/pics2.md)
 
 ### Azam
-[![lego](../../static/img/az.jpg)](../)
+[![lego](../../static/img/az.jpg)](hello.md)
 
 ### This fish?
-[![lego](../../static/img/fish.jpg)](../)
+[![lego](../../static/img/fish.jpg)](hello.md)

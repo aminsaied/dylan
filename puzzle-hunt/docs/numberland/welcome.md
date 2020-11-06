@@ -17,11 +17,11 @@ What planet is singing after 120 seconds in [this song](https://www.youtube.com/
 
 | |Nani Jaan|Uncle Az|Nadia|Harris| 
 |-|-|-|-|-|
-|Mercury|[link](../)|[link](../)|[link](../)|[link](../)| 
-|Venus|[link](../)|[link](../)|[link](../)|[link](../)|
-|Earth|[link](../)|[link](../)|[link](../)|[link](../)|
-|Mars|[link](../)|[link](../)|[link](../)|[link](../)|
-|Jupyter|[link](../)|[link](../)|[link](../)|[link](../)|
-|Saturn|[link](../)|[link](../)|[link](2)|[link](../)|
-|Uranus|[link](../)|[link](../)|[link](../)|[link](../)|
-|Neptune|[link](../)|[link](../)|[link](../)|[link](../)|
+|Mercury|[link](hello.md)|[link](hello.md)|[link](hello.md)|[link](hello.md)| 
+|Venus|[link](hello.md)|[link](hello.md)|[link](hello.md)|[link](hello.md)|
+|Earth|[link](hello.md)|[link](hello.md)|[link](hello.md)|[link](hello.md)|
+|Mars|[link](hello.md)|[link](hello.md)|[link](hello.md)|[link](hello.md)|
+|Jupyter|[link](hello.md)|[link](hello.md)|[link](hello.md)|[link](hello.md)|
+|Saturn|[link](hello.md)|[link](hello.md)|[link](numberland/2.md)|[link](hello.md)|
+|Uranus|[link](hello.md)|[link](hello.md)|[link](hello.md)|[link](hello.md)|
+|Neptune|[link](hello.md)|[link](hello.md)|[link](hello.md)|[link](hello.md)|
